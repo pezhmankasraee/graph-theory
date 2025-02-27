@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: graph-theory
+
+server:
+  port: 9090
